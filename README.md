@@ -1,1 +1,2 @@
 # Flipkart-Clone
+"Experience the essence of online shopping with our Flipkart Clone project developed using HTML and CSS. Immerse yourself in a familiar interface offering product browsing, detailed listings, cart functionality, and a seamless user experience. Explore this responsive and visually appealing web application that mirrors the convenience and efficiency of the popular Flipkart platform."
